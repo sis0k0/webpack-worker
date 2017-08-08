@@ -43,7 +43,7 @@
     "webpack": "~3.2.0",
     "webpack-bundle-analyzer": "^2.8.2",
     "webpack-sources": "~1.0.1",
-    "worker-loader": "github:sis0k0/worker-loader"
+    "worker-loader": "github:NativeScript/worker-loader"
   },
   "scripts": {
     "ns-bundle": "ns-bundle",
